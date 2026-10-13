@@ -7,4 +7,4 @@ Included slice: 2015-01-01 through 2025-12-31, limited by available source obser
 Missing prices are not invented or forward-filled. Training removes invalid values and rejects conflicting duplicates.
 The distributor describes source U.S. government data as public domain; attribute both EIA and the distributor. Code licensing does not override data rights.
 Historical data can be revised. This is not a vintage release archive or live feed. The next trading day means the next available price observation, which can skip holidays.
-SHA-256: 6f5e79c9f7cd8cf03db11fd0c2940ce549ac3196b4bdbf5eaa0c3bebed880177
+SHA-256: c01fe524d17d29ce5bbf508147f715b696e36784736ecc13e97fabe0d9a72e65

@@ -12,7 +12,7 @@
     "stddev": 18.714785496343463
   },
   "trained_through": "2024-05-09",
-  "data_sha256": "6f5e79c9f7cd8cf03db11fd0c2940ce549ac3196b4bdbf5eaa0c3bebed880177",
+  "data_sha256": "c01fe524d17d29ce5bbf508147f715b696e36784736ecc13e97fabe0d9a72e65",
   "features": [
     "price",
     "lag_1",
